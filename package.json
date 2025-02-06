@@ -37,7 +37,7 @@
   "homepage": "https://github.com/sabereen/capacitor-bing-translator",
   "dependencies": {},
   "devDependencies": {
-    "@capacitor/core": "^5.5.0",
+    "@capacitor/core": "^6.0.2",
     "cheerio": "^1.0.0-rc.12"
   },
   "peerDependencies": {
